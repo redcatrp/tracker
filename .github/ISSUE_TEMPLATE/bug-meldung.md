@@ -19,7 +19,7 @@ Eine genaue Beschreibung davon, was passieren sollte.
 **Screenshots**
 Wenn möglich, Screenshots oder Aufnahmen, die den Bug zeigen.
 
-**Informationen**
+**Informationen (optional)**
  - Betriebssystem etc
 
 **Sonstiges**
